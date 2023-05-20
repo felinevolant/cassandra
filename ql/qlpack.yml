@@ -1,0 +1,4 @@
+name: plover/test
+version: 0.0.1
+dependencies:
+  codeql/java-all: ^0.5.3
